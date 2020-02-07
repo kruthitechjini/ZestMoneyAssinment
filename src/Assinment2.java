@@ -43,10 +43,6 @@ public class Assinment2 {
 		  WebElement hover = driver.findElement(By.xpath("//span[contains(@class,\"ui_bubble_rating fl bubble_10\")]"));
 		  action.moveToElement(hover).perform();
 		
-		
-		
-        
-	
 	}
 
 }
